@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lauren Seavey
 =====================================================================================================================================
 
- ngineer
+Engineer
 ------------------------
 
 I recently graduated with a bachelor's degree in Information Technology from UMass Lowell. I first got into the technology industry through the classic “bring your kid to work day”. I got to follow my dad around, who is an IT Infrastructure Manager at a chemical company in Boston. I learned a lot about infrastructure and data center practices and got my first internship after my freshman year of college at the Markley group. I did a variety of jobs there in the cloud engineering and networking engineering departments and even supported them in technical audits to gain certifications. During my sophomore year at Umass Lowell, I was approached by a dean to join the engaging computing group and work on a 2-year long computer science research project and presented it at the Frontiers in Education Conference in Sweden. Along with the research side, I got to enhance my software engineering developments by working on the virtual reality programming platform that I taught. After these internships and experiences and getting my bachelor's degree, I’m looking to land my first full-time engineering position.
